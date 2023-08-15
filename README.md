@@ -6,7 +6,7 @@
 
 Here are some informations about me:
 
--  I’m currently working at [Zappts](https://www.zappts.com.br/)
+-  I’m currently working as UX Leader
 -  Graduated in Systems Analysis and Development at [FATEC](https://fatecsjc-prd.azurewebsites.net/)
 -  How to reach me: [Send me a email](mailto:carolinagalvaosantos@gmail.com)
 
